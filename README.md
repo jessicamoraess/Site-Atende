@@ -2,7 +2,7 @@
 
 ***
 
-Projeto do curso Técnico de Informática da ETEC, onde foi desenvolvido um web site para a empresa Atende Ar Condicionado e Refrigeração utilizando HTML5, CSS, javascript e jQuery.
+Projeto do curso Técnico de Informática da ETEC, onde foi desenvolvido um web site para a empresa Atende Ar Condicionado e Refrigeração utilizando HTML5, CSS, javascript, jQuery e PHP.
 
 ***
 
